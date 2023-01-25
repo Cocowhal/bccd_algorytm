@@ -1,5 +1,5 @@
 
-## BCCD_BOT
+## BCCD_ALGORYTHM
 This AI project uses:
 * YOLOv5 by ultralytics - https://github.com/ultralytics/yolov5
 * ROBOFLOW - https://app.roboflow.com/
